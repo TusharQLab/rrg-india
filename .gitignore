@@ -1,0 +1,9 @@
+logs/
+*.log
+validation_report.csv
+backup_*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/
+*.tmp
